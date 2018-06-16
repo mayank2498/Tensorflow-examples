@@ -127,9 +127,6 @@ writer = tf.summary.FileWriter("summary_logs", sess.graph)
 
 
 
-
-
-
 # Initialize reporting variables
 cost = 0
 diff = 1
